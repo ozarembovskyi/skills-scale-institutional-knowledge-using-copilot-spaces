@@ -40,3 +40,7 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+---
+
+_See also: [Stakeholder Update Template](octoacme-stakeholder-update-template.md) | [Incident Communication Template](octoacme-incident-communication-template.md)_

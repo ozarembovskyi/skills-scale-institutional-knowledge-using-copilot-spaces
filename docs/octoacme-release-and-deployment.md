@@ -36,3 +36,7 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+---
+
+_See also: [Release Manager Checklist](octoacme-release-manager-checklist.md)_
