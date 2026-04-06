@@ -36,3 +36,6 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Related Templates
+- [Release Manager Checklist](octoacme-release-manager-checklist.md) — full go/no-go, deployment, rollback, and post-deploy checklist
