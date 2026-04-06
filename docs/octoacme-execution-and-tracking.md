@@ -38,3 +38,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+---
+
+_See also: [Stakeholder Update Template](octoacme-stakeholder-update-template.md) | [Incident Communication Template](octoacme-incident-communication-template.md)_
